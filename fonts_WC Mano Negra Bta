@@ -1,11 +1,11 @@
 @font-face {
-font-family: 'Gerbera';
+font-family: 'ManoNegra';
 src: url('https://github.com/EvgeniyZharkov/fonts/blob/master/WC%20Mano%20Negra%20Bta.woff') format('woff');
 font-weight: 400;
 font-style: normal;
 }
 @font-face {
-font-family: 'Gerbera';
+font-family: 'ManoNegra';
 src: url('https://github.com/EvgeniyZharkov/fonts/blob/master/WC%20Mano%20Negra%20Bta.woff') format('woff');
 font-weight: 700;
 font-style: bold;
